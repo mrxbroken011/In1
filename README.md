@@ -1,17 +1,6 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
-
-<p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
-</p>
-
-<h2 align="center">Delivering Superior Music Experience to Telegram</h2>
+<a href="https://heroku.com/deploy?template=https://github.com/mrxbroken011/In1" target="_blank">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
+</a>
 
 ---
 
@@ -89,22 +78,14 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | Stop the bot and clear the queue.           |
 | `/queue`                | Display the list of songs in the queue.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
-
+For a full list of commands, use `/help` 
 ---
 
 ### 🔄 Updates & Support
 
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
-<p align="center">
-  <a href="https://telegram.me/AviaxSupport">
-    <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="https://telegram.me/AviaxOfficial">
-    <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
-  </a>
-</p>
+
 
 ---
 
